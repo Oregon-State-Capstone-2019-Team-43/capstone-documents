@@ -13,7 +13,7 @@ TRG 		= $(SRC:%.tex=%.dvi)
 PSF 		= $(SRC:%.tex=%.ps)
 PDF 		= $(SRC:%.tex=%.pdf)
 
-HWNAME = 43_CRT_ProgressReport
+HWNAME = 43_CRT_WinterProgressReport
 TAR = $(HWNAME).tar.bz2
 TARFILES = $(HWNAME).tex $(HWNAME).bib $(HWNAME).pdf IEEEtran.cls Makefile
 
